@@ -25,11 +25,15 @@ https://download.opera.com/download/get/?id=70125&location=424&nothanks=yes&sub=
 ```
 Good boy! (Laughs) 😆 XD
 
+
+
 3.Finally,go to files.
 In the files,select "downloads".
 Now lick a file called "Opera-developer-setup",or something like that.
 Sorry,did I say "lick"? I meant "Click"! Ha!
 Select "Open" and click whatever else you need to do.
+
+
 
 4.Go to your apps.
 Select "Opera dev"
