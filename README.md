@@ -11,7 +11,7 @@ chrome://settings/
 ```
 To get to settings.
 Now,click your profile picture you see right smack in front of you.
-You can't miss it.If you can,you need better glasses.
+You can't miss it.If you did miss it,you need better glasses.
 It should open up an app.That app is called settings.
 In the top of the screen,you should see a search bar.
 Search "Linux" and scroll to the very bottom.
