@@ -5,6 +5,14 @@ Ok,so I figured out that the Opera Browser company made a product called
 (For a note,this thing will only work if either linux is unblocked for you,or you are on chrome://version 129 or higher.)
 Otherwise,you're cooked.
 
+**Side story:** I have two computers,one is for school,
+and one is for home,but I cannot really do anything on the home one 
+because they are both synced under the school account.If you have the same problem,Linux will 
+probably be unblocked already for you because It is *your* computer 
+and It has been auto-updated to chrome://version 130 or something.
+So,I will say this only once: *opera will only work once linux is unblocked*
+
+**EXPLOIT** 
 1. First,go to 
 ```
 chrome://settings/
